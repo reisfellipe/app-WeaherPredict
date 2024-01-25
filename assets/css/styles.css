@@ -34,6 +34,7 @@ body {
     width: calc(100% - 60px);
     height: 2.7rem;
     padding-left:10px;
+    text-transform: capitalize;
 }
 
 .button-search{
